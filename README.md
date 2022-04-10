@@ -8,7 +8,7 @@ Snowflake is the Data Cloud, a future-proof solution that simplifies data pipeli
 
 dbt is a transformation workflow that lets teams quickly and collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone who knows SQL can build production-grade data pipelines. It transforms data in the warehouse, leveraging cloud data platforms like Snowflake.
 
-In this Quickstart, you will follow a step-by-step guide to using dbt with Snowflake, and see some of the benefits this tandem brings. https://quickstarts.snowflake.com/guide/
+In this Quickstart, you will follow a step-by-step guide to using dbt with Snowflake, and see some of the benefits this tandem brings. https://quickstarts.snowflake.com/guide/data_teams_with_dbt_cloud/#0
 
 ### What we've covered:
 - How to set up dbt & Snowflake
